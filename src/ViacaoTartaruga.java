@@ -1,3 +1,8 @@
+// INTEGRANTES DO GRUPO
+// Christiano Monteiro Bourguignon Leite
+// Isaac Emanuel Pires De Almeida
+// Gabriel Povoa Ribeiro
+
 import java.util.Scanner;
 
 public class ViacaoTartaruga {

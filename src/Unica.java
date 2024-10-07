@@ -1,3 +1,8 @@
+// INTEGRANTES DO GRUPO
+// Christiano Monteiro Bourguignon Leite
+// Isaac Emanuel Pires De Almeida
+// Gabriel Povoa Ribeiro
+
 public class Unica {
 
     // Atributo estático para armazenar a única instância da classe
